@@ -77,12 +77,3 @@ int main()
 //	}
 }
 
-/*
-
-	[amei3@hills ~]$ ./a.out
-02345[amei3@hills ~]$ nano pokemon.cpp
-[amei3@hills ~]$ 
-
-
-
-*/
